@@ -9,7 +9,7 @@ Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 * **LLM:** Llama 3.2 3B
 * **Vector Database:** ChromaDB
 * **Data Processing:** Pandas
-* **Embeddings:** `all-MiniLM-L6-v2` (via ChromaDB default)
+* **Embeddings:** `all-MiniLM-L6-v2` (via ChromaDB default) (may be different at time of reading)
 
 ---
 
